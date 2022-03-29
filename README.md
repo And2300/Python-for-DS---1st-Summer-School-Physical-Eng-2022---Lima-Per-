@@ -5,6 +5,8 @@ Site: https://sites.google.com/view/aepif/summer-school-2022
 
 IG: https://www.instagram.com/aepif.uni/
 
+YT: https://www.youtube.com/channel/UCtervcDQNE3TZyDkBoMEqqw 
+
 ## Syllabus
 
 * [Introduction to Python](https://github.com/And2300/Python-for-DS---1st-Summer-School-Physical-Eng-2022---Lima-Per-/blob/main/1._Python_Basic.ipynb)
